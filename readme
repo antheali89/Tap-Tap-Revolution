@@ -1,0 +1,21 @@
+INSTRUCTIONS FOR RUNNING GAME
+
+1. go to: https://www.python.org/downloads/ and install the 2.7.3 version (scroll way down).  After running the installer, you should have IDLE in your All Programs folder in your start menu.  Install the 32-bit Python version regardless of the type of your computer (due to complications with pygame).
+
+2. Launch IDLE.  To test if Python was installed correctly, type in print 1+1 if it outputs 2, then Python has been installed correctly.
+
+3. go to: http://www.pygame.org/download.shtml and download the 2.7 release of pygame for Windows (named pygame-1.9.1.win32-py2.7.msi)
+
+4. To verify that pygame is installed properly, type import pygame into IDLE.  If this doesn’t result in any output, then you’re good.
+
+5. In IDLE, go to File > Open and click AntheaLiDDR.py 
+
+6. Go to Run > Run Module (or press F5) to run the program.
+
+NOTE:
+When running the game, there are two windows that pop up titled: *Python 2.7.13 Shell* and pygame window. In order to close and stop the program, you must close the *Python 2.7.13 Shell* window and click “OK” on the dialogue box that pops up.  For some reason, nothing happens when you just click the “X” button.
+
+HOW TO PLAY GAME:
+When the animated arrows roll across the screen, press your arrow keys at the moment the corresponding animated arrow matches up with the white arrow.  For example, if there’s a left pointing arrow moving across the screen, at the moment when the moving arrow matches up with the stationary white arrow, press the left arrow key on your keyboard.  
+As you get more accurate with your key pressing timing, your points will increase with every press!
+Press your space bar to pause the game.
